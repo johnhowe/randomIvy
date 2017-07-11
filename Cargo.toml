@@ -1,0 +1,8 @@
+[package]
+name = "RandomIvy"
+version = "0.1.0"
+authors = ["John Howe <johnhowe@gmail.com>"]
+
+[dependencies]
+rand = "0.3.15"
+rdrand = "0.1.7"
